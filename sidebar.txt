@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xmo:home|Door43 (xmo)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xmo|d43-xmo repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xmo/archive/master.zip|d43-xmo.zip]]
+
+**Recent Changes**
+{{changes>ns = xmo}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xmo|Ethnologue data]]
+
